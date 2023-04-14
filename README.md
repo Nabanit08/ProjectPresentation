@@ -1,6 +1,6 @@
 # EMPLOYEE MANAGEMENT SYSTEM
 <p align="center">
-  <img align="center" alt="coding" left="50" width="350" Height="400" src="https://github.com/Nabanit08/ProjectPresentation/blob/main/ORM3/WhatsApp%20Image%202023-04-14%20at%2009.32.39.jpeg">
+  <img align="center" alt="coding" left="50" width="750" Height="400" src="https://github.com/Nabanit08/ProjectPresentation/blob/main/ORM3/WhatsApp%20Image%202023-04-14%20at%2009.32.39.jpeg">
 </p>
 You can manage the employees for your business using the software programme known as your JDBC-based Employee Management System. You can do a number of actions on the system's user-friendly interface, including adding, deleting, updating, and querying employee records from a main database.
 
@@ -12,5 +12,5 @@ By inputting their id, name, address and salary , the user interface offers a st
 # ER DIAGRAM
 
 <p align="center">
-  <img align="center" alt="coding" left="50" width="350" Height="400" src="https://github.com/Nabanit08/ProjectPresentation/blob/main/ORM3/IMG-20230414-WA0028.jpg">
+  <img align="center" alt="coding" left="50" width="750" Height="400" src="https://github.com/Nabanit08/ProjectPresentation/blob/main/ORM3/IMG-20230414-WA0028.jpg">
 </p>
