@@ -10,3 +10,7 @@ The system interacts with the database and performs CRUD (Create, Read, Update, 
 By inputting their id, name, address and salary , the user interface offers a straightforward and intuitive approach to create employee records. Similar to this, removing a database record for an employee and we can perform update and search operations too.
 
 # ER DIAGRAM
+
+<p align="center">
+  <img align="center" alt="coding" left="50" width="350" Height="400" src="https://github.com/Nabanit08/ProjectPresentation/blob/main/ORM3/IMG-20230414-WA0028.jpg">
+</p>
