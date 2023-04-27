@@ -14,3 +14,7 @@ By inputting their id, name, address and salary , the user interface offers a st
 <p align="center">
   <img align="center" alt="coding" left="50" width="750" Height="400" src="https://github.com/Nabanit08/ProjectPresentation/blob/main/ORM3/IMG-20230414-WA0028.jpg">
 </p>
+
+
+#TECH STACK
+<p>JAVA</p>
