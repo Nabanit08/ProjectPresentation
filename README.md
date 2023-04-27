@@ -18,3 +18,10 @@ By inputting their id, name, address and salary , the user interface offers a st
 
 # TECH STACK
 <p>JAVA</p>
+<p>MYSQL</p>
+
+# FEATURES
+<p>Add an Employee</p>
+<p>Search an Employee</p>
+<p>Delete any Employee</p>
+<p>Update any Employee Details</p>
