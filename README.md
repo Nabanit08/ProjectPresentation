@@ -25,3 +25,5 @@ By inputting their id, name, address and salary , the user interface offers a st
 <p>Search an Employee</p>
 <p>Delete any Employee</p>
 <p>Update any Employee Details</p>
+
+# THANK YOU FOR VISITING US!
